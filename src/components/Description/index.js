@@ -1,3 +1,5 @@
+import './description.css';
+
 export function Description() {
     return(
         <article className="text">

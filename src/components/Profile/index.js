@@ -1,4 +1,5 @@
 import photo from '../../assets/foto.png';
+import './profile.css';
 
 export function Profile() {
     return(

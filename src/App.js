@@ -10,8 +10,8 @@ function App() {
     <div className="container">
       <Header />
 
-      <main>
-        <section className='main-content'>
+      <main className='main-container'>
+        <section className='content'>
           <Description />
         </section>
 
