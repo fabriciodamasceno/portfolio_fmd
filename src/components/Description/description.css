@@ -18,3 +18,19 @@
     font-weight: 300;
     line-height: 1.8;
 }
+
+@media (max-width: 1200px) {
+    .text {
+        align-items: center;
+    }
+
+    .text p {
+        width: 100%;
+    }
+}
+
+@media (max-width: 700px) {
+    .text p {
+        font-size: 0.9em;
+    }
+}
